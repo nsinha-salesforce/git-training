@@ -1,4 +1,3 @@
-ndjksndkjnd
 //This code is written by DevB
 public class Test {
 	public static void main(String[] args) {
